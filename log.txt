@@ -1,0 +1,1887 @@
+Starting project at D:\UIUX\Temporary\StickerSmash
+Starting Metro Bundler
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Android Bundled 1219ms node_modules\expo-router\entry.js (1232 modules)
+ (NOBRIDGE) LOG  Bridgeless mode is enabled
+ INFO  
+[7m [1m💡 JavaScript logs will be removed from Metro in React Native 0.77![22m Please use React Native DevTools as your default tool. Tip: Type [1mj[22m in the terminal to open (requires Google Chrome or Microsoft Edge).[27m
+ (NOBRIDGE) WARN  [Layout children]: No route named "not-found" exists in nested children: ["not_found", "_sitemap", "+not-found", "(tabs)"] [Component Stack]
+ (NOBRIDGE) WARN  [Layout children]: No route named "words2" exists in nested children: ["about", "index", "words copy", "words"] [Component Stack]
+ (NOBRIDGE) LOG  Is picking location: false
+ (NOBRIDGE) LOG  Current location: undefined
+ (NOBRIDGE) LOG  Location: undefined
+ (NOBRIDGE) LOG  Image source: 25
+ (NOBRIDGE) WARN  🚀 Starting sensor initialization... [Component Stack]
+ (NOBRIDGE) WARN  ✅ Sensors configured
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:42:27
+ (NOBRIDGE) WARN     Buffer size before clear: 0 samples
+ (NOBRIDGE) WARN  📊 Starting baseline collection (30 seconds)...
+ (NOBRIDGE) WARN  ⏱️ Baseline collection period complete
+ (NOBRIDGE) WARN  📊 Collected 287 samples (Expected: 300)
+ (NOBRIDGE) WARN  ✅ Baseline established at 16:42:57: {"location": {"latitude": "18.564162", "longitude": "73.946521"}, "magnetometer": {"x": "5.93", "y": "-56.05", "z": "3.51"}, "sampleCount": 287}
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:43:07
+ (NOBRIDGE) WARN     Buffer size before clear: 383 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:43:17
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:43:27
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:43:37
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:43:47
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:43:57
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:44:07
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:44:17
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:44:27
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:44:37
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:44:47
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:44:57
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:45:07
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:45:17
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🚀 Starting sensor initialization... [Component Stack]
+ (NOBRIDGE) WARN  ✅ Sensors configured
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:45:22
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 Starting baseline collection (30 seconds)...
+ (NOBRIDGE) WARN  ⏱️ Baseline collection period complete
+ (NOBRIDGE) WARN  📊 Collected 290 samples (Expected: 300)
+ (NOBRIDGE) WARN  ✅ Baseline established at 16:45:52: {"location": {"latitude": "18.564166", "longitude": "73.946524"}, "magnetometer": {"x": "5.54", "y": "-55.97", "z": "3.31"}, "sampleCount": 290}
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:46:02:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946521
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.82 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.44, Y:-56.05, Z:3.12
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.49, Y:0.01, Z:0.40
+
+   Samples: 96
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:46:02
+ (NOBRIDGE) WARN     Buffer size before clear: 386 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:46:12:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564167, 73.946525
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.76 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.43, Y:-56.04, Z:3.37
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.50, Y:0.01, Z:0.14
+
+   Samples: 97
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:46:12
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:46:22:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946521
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.84 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.52, Y:-55.98, Z:3.43
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.41, Y:0.07, Z:0.08
+
+   Samples: 96
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:46:22
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:46:32:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564168, 73.946520
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.75 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.35, Y:-55.97, Z:3.15
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.58, Y:0.08, Z:0.37
+
+   Samples: 97
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:46:32
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:46:42:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946517
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.47 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.49, Y:-55.99, Z:3.36
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.44, Y:0.06, Z:0.15
+
+   Samples: 96
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:46:42
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:46:52:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946527
+   • Baseline: 18.564162, 73.946521
+   • Distance: 1.22 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.45, Y:-56.00, Z:3.32
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.47, Y:0.05, Z:0.19
+
+   Samples: 96
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:46:52
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:47:02:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564168, 73.946523
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.76 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.32, Y:-55.96, Z:3.15
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.61, Y:0.09, Z:0.37
+
+   Samples: 97
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:47:02
+ (NOBRIDGE) WARN     Buffer size before clear: 98 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:47:12:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946521
+   • Baseline: 18.564162, 73.946521
+   • Distance: 1.19 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.72, Y:-56.03, Z:3.08
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.20, Y:0.02, Z:0.43
+
+   Samples: 96
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:47:12
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:47:22:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564168, 73.946521
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.68 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.98, Y:-56.09, Z:2.99
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.05, Y:0.04, Z:0.52
+
+   Samples: 96
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:47:22
+ (NOBRIDGE) WARN     Buffer size before clear: 96 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:47:32:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946524
+   • Baseline: 18.564162, 73.946521
+   • Distance: 1.08 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.80, Y:-56.06, Z:2.90
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.13, Y:0.01, Z:0.62
+
+   Samples: 97
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:47:32
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:47:42:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564168, 73.946526
+   • Baseline: 18.564162, 73.946521
+   • Distance: 0.92 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.92, Y:-56.09, Z:2.91
+   • Baseline: X:5.93, Y:-56.05, Z:3.51
+   • Diff:     X:0.01, Y:0.03, Z:0.61
+
+   Samples: 97
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:47:42
+ (NOBRIDGE) WARN     Buffer size before clear: 97 samples
+ (NOBRIDGE) WARN  🚀 Starting sensor initialization... [Component Stack]
+ (NOBRIDGE) WARN  ✅ Sensors configured
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:47:46
+ (NOBRIDGE) WARN     Buffer size before clear: 35 samples
+ (NOBRIDGE) WARN  📊 Starting baseline collection (30 seconds)...
+ (NOBRIDGE) WARN  🚀 Starting sensor initialization... [Component Stack]
+ (NOBRIDGE) WARN  ✅ Sensors configured
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:47:54
+ (NOBRIDGE) WARN     Buffer size before clear: 82 samples
+ (NOBRIDGE) WARN  📊 Starting baseline collection (10 seconds)...
+ (NOBRIDGE) WARN  ⏱️ Baseline collection period complete
+ (NOBRIDGE) WARN  📊 Collected 96 samples (Expected: 100)
+ (NOBRIDGE) WARN  ✅ Baseline established at 16:48:05: {"location": {"latitude": "18.564173", "longitude": "73.946523"}, "magnetometer": {"x": "5.77", "y": "-56.05", "z": "2.85"}, "sampleCount": 96}
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:10:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.57 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.69, Y:-56.06, Z:2.82
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.15, Y:0.09, Z:0.49
+
+   Samples: 96
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:10
+ (NOBRIDGE) WARN     Buffer size before clear: 144 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:15:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564167, 73.946520
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.49 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.72, Y:-56.08, Z:3.00
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.18, Y:0.10, Z:0.31
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:15
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:20:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564158, 73.946515
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.39 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.67, Y:-56.03, Z:2.84
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.12, Y:0.06, Z:0.47
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:20
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:25:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.51 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.73, Y:-56.20, Z:2.78
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.19, Y:0.23, Z:0.53
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:25
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:30:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946529
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.97 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.67, Y:-56.07, Z:2.95
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.12, Y:0.10, Z:0.36
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:30
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:35:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946528
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.51 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.77, Y:-56.09, Z:3.00
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.22, Y:0.12, Z:0.30
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:35
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:40:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564168, 73.946530
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.61 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.66, Y:-56.03, Z:2.90
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.12, Y:0.06, Z:0.41
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:40
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:45:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946516
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.08 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.49, Y:-55.81, Z:2.83
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.05, Y:0.16, Z:0.47
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:45
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:50:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.62 meters
+
+   Magnetometer (µT):
+   • Current:  X:5.52, Y:-55.87, Z:2.91
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:0.02, Y:0.10, Z:0.39
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:50
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:48:55:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946524
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.26 meters
+
+   Magnetometer (µT):
+   • Current:  X:-2.45, Y:-42.74, Z:11.51
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:8.00, Y:13.23, Z:8.21
+
+   Samples: 51
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:48:55
+ (NOBRIDGE) WARN     Buffer size before clear: 51 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:00:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.64 meters
+
+   Magnetometer (µT):
+   • Current:  X:21.15, Y:-30.79, Z:4.12
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.60, Y:25.18, Z:0.82
+
+   Samples: 55
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:00
+ (NOBRIDGE) WARN     Buffer size before clear: 55 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:05:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564183, 73.946526
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.84 meters
+
+   Magnetometer (µT):
+   • Current:  X:7.49, Y:32.93, Z:6.03
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:1.94, Y:88.90, Z:2.72
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:05
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:10:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.81 meters
+
+   Magnetometer (µT):
+   • Current:  X:-30.30, Y:13.03, Z:18.85
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:35.85, Y:69.00, Z:15.55
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:10
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:15:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.81 meters
+
+   Magnetometer (µT):
+   • Current:  X:-28.54, Y:6.47, Z:20.20
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.09, Y:62.44, Z:16.89
+
+   Samples: 51
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:15
+ (NOBRIDGE) WARN     Buffer size before clear: 51 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:20:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.52 meters
+
+   Magnetometer (µT):
+   • Current:  X:0.98, Y:38.39, Z:6.50
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:4.57, Y:94.36, Z:3.19
+
+   Samples: 56
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:20
+ (NOBRIDGE) WARN     Buffer size before clear: 56 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:25:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564177, 73.946535
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.62 meters
+
+   Magnetometer (µT):
+   • Current:  X:-17.80, Y:-30.85, Z:33.11
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:23.35, Y:25.12, Z:29.80
+
+   Samples: 57
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:25
+ (NOBRIDGE) WARN     Buffer size before clear: 57 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:30:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564166, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.57 meters
+
+   Magnetometer (µT):
+   • Current:  X:-14.15, Y:-49.56, Z:29.53
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:19.70, Y:6.41, Z:26.22
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:30
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:35:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946522
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.83 meters
+
+   Magnetometer (µT):
+   • Current:  X:-14.15, Y:-49.71, Z:29.37
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:19.69, Y:6.26, Z:26.06
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:35
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:40:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564168, 73.946526
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.26 meters
+
+   Magnetometer (µT):
+   • Current:  X:-14.27, Y:-49.52, Z:29.16
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:19.81, Y:6.45, Z:25.85
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:40
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:45:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.31 meters
+
+   Magnetometer (µT):
+   • Current:  X:-3.77, Y:-47.01, Z:21.62
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:9.31, Y:8.96, Z:18.31
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:45
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:50:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564166, 73.946524
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.01 meters
+
+   Magnetometer (µT):
+   • Current:  X:-9.52, Y:-27.40, Z:17.26
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.06, Y:28.57, Z:13.96
+
+   Samples: 57
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:50
+ (NOBRIDGE) WARN     Buffer size before clear: 57 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:49:55:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564170, 73.946522
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.44 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.63, Y:-25.51, Z:-8.92
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.18, Y:30.46, Z:12.23
+
+   Samples: 54
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:49:55
+ (NOBRIDGE) WARN     Buffer size before clear: 54 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:00:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.46 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.59, Y:-25.48, Z:-8.88
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.13, Y:30.49, Z:12.19
+
+   Samples: 54
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:00
+ (NOBRIDGE) WARN     Buffer size before clear: 54 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:05:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564166, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.74 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.68, Y:-25.54, Z:-8.92
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.22, Y:30.43, Z:12.22
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:05
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:10:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.78 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.62, Y:-25.45, Z:-8.89
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.17, Y:30.52, Z:12.20
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:10
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:15:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.76 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.57, Y:-25.41, Z:-9.05
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.11, Y:30.56, Z:12.36
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:15
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:20:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.74 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.68, Y:-25.43, Z:-8.98
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.23, Y:30.54, Z:12.29
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:20
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:25:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.74 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.67, Y:-25.37, Z:-9.11
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.22, Y:30.60, Z:12.42
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:25
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:30:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.74 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.55, Y:-25.49, Z:-8.97
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.09, Y:30.48, Z:12.28
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:30
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:35:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.75 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.52, Y:-25.52, Z:-8.82
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.07, Y:30.45, Z:12.13
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:35
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:40:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.77 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.78, Y:-25.51, Z:-8.83
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.33, Y:30.46, Z:12.13
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:40
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:45:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564163, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.79 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.54, Y:-25.44, Z:-8.89
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.08, Y:30.53, Z:12.19
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:45
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:50:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.80 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.51, Y:-25.44, Z:-8.63
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.06, Y:30.53, Z:11.93
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:50
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:50:55:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.81 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.52, Y:-25.43, Z:-8.86
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.06, Y:30.54, Z:12.16
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:50:55
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:00:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.83 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.58, Y:-25.55, Z:-8.81
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.13, Y:30.42, Z:12.12
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:00
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:05:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.83 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.48, Y:-25.47, Z:-8.70
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.03, Y:30.50, Z:12.01
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:05
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:10:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.84 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.55, Y:-25.45, Z:-8.78
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.09, Y:30.52, Z:12.08
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:10
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:15:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.84 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.81, Y:-25.43, Z:-9.06
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.35, Y:30.54, Z:12.36
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:15
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:20:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.84 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.62, Y:-25.46, Z:-8.66
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.17, Y:30.51, Z:11.97
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:20
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:25:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.83 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.50, Y:-25.41, Z:-8.75
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.05, Y:30.56, Z:12.06
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:25
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:30:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.83 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.57, Y:-25.50, Z:-8.73
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.12, Y:30.47, Z:12.03
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:30
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:35:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.84 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.84, Y:-25.47, Z:-8.94
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.38, Y:30.50, Z:12.25
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:35
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:40:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.85 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.59, Y:-25.48, Z:-8.84
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.14, Y:30.49, Z:12.15
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:40
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:45:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.86 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.66, Y:-25.47, Z:-9.01
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.20, Y:30.50, Z:12.32
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:45
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:50:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.87 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.61, Y:-25.43, Z:-8.83
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.15, Y:30.54, Z:12.14
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:50
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:51:55:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.88 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.56, Y:-25.48, Z:-8.77
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.10, Y:30.49, Z:12.07
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:51:55
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:00:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.92 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.78, Y:-25.50, Z:-8.83
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.32, Y:30.47, Z:12.13
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:00
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:05:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.92 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.65, Y:-25.43, Z:-8.83
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.19, Y:30.54, Z:12.14
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:05
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:10:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.93 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.67, Y:-25.39, Z:-8.92
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.21, Y:30.58, Z:12.23
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:10
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:15:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.94 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.69, Y:-25.48, Z:-9.05
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.24, Y:30.49, Z:12.36
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:15
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:20:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564162, 73.946516
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.95 meters
+
+   Magnetometer (µT):
+   • Current:  X:-37.18, Y:-0.36, Z:-7.11
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:42.72, Y:55.61, Z:10.42
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:20
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:25:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564167, 73.946516
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.87 meters
+
+   Magnetometer (µT):
+   • Current:  X:-16.28, Y:-43.43, Z:14.11
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:21.82, Y:12.54, Z:10.80
+
+   Samples: 56
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:25
+ (NOBRIDGE) WARN     Buffer size before clear: 56 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:30:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946516
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.06 meters
+
+   Magnetometer (µT):
+   • Current:  X:-9.58, Y:-46.48, Z:0.53
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.12, Y:9.49, Z:2.78
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:30
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:35:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946516
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.09 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.45, Y:-47.17, Z:-2.68
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.00, Y:8.80, Z:5.98
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:35
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:40:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.63 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.29, Y:-47.28, Z:-2.78
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:9.83, Y:8.69, Z:6.09
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:40
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:45:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564170, 73.946520
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.61 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.38, Y:-47.20, Z:-2.78
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:9.92, Y:8.77, Z:6.08
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:45
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:50:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.74 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.44, Y:-47.25, Z:-2.98
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:9.98, Y:8.72, Z:6.28
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:50
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:52:55:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946514
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.33 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.39, Y:-47.19, Z:-3.10
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:9.94, Y:8.78, Z:6.41
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:52:55
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:00:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.83 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.49, Y:-47.24, Z:-2.86
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.04, Y:8.73, Z:6.17
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:00
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:05:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946516
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.26 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.51, Y:-47.22, Z:-2.84
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.05, Y:8.76, Z:6.15
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:05
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:10:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564178, 73.946520
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.41 meters
+
+   Magnetometer (µT):
+   • Current:  X:-5.05, Y:-47.22, Z:-2.64
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.59, Y:8.75, Z:5.95
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:10
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:15:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946520
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.93 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.84, Y:-47.24, Z:-2.61
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.38, Y:8.73, Z:5.92
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:15
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:20:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.80 meters
+
+   Magnetometer (µT):
+   • Current:  X:-5.02, Y:-47.19, Z:-2.60
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.57, Y:8.78, Z:5.90
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:20
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:25:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564175, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.15 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.86, Y:-47.09, Z:-2.62
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.41, Y:8.88, Z:5.92
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:25
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:30:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564175, 73.946525
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.01 meters
+
+   Magnetometer (µT):
+   • Current:  X:-4.92, Y:-47.20, Z:-2.27
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.47, Y:8.77, Z:5.58
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:30
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:36:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564106, 73.946531
+   • Baseline: 18.564166, 73.946524
+   • Distance: 6.71 meters
+
+   Magnetometer (µT):
+   • Current:  X:-5.02, Y:-47.19, Z:-2.57
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.56, Y:8.78, Z:5.88
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:36
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:41:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.04 meters
+
+   Magnetometer (µT):
+   • Current:  X:-5.06, Y:-47.16, Z:-2.39
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:10.60, Y:8.81, Z:5.69
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:41
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:46:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946525
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.79 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.43, Y:-45.30, Z:0.87
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:11.98, Y:10.67, Z:2.44
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:46
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:51:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.84 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.68, Y:-45.11, Z:1.39
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.22, Y:10.86, Z:1.92
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:51
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:53:56:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564170, 73.946528
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.60 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.82, Y:-45.09, Z:1.35
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.36, Y:10.88, Z:1.95
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:53:56
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:01:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564170, 73.946526
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.46 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.85, Y:-45.10, Z:1.26
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.39, Y:10.87, Z:2.04
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:01
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:06:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564175, 73.946520
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.09 meters
+
+   Magnetometer (µT):
+   • Current:  X:-7.08, Y:-45.18, Z:1.15
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.62, Y:10.80, Z:2.16
+
+   Samples: 49
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:06
+ (NOBRIDGE) WARN     Buffer size before clear: 49 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:11:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.98 meters
+
+   Magnetometer (µT):
+   • Current:  X:-6.87, Y:-45.06, Z:1.33
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:12.41, Y:10.92, Z:1.98
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:11
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:16:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946516
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.21 meters
+
+   Magnetometer (µT):
+   • Current:  X:-27.65, Y:5.00, Z:14.62
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:33.19, Y:60.97, Z:11.31
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:16
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:21:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946522
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.65 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.24, Y:19.35, Z:21.42
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.78, Y:75.32, Z:18.12
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:21
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:26:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.79 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.27, Y:19.39, Z:21.75
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.81, Y:75.36, Z:18.44
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:26
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:31:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946515
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.30 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.35, Y:19.45, Z:21.54
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.89, Y:75.42, Z:18.23
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:31
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:36:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564175, 73.946506
+   • Baseline: 18.564166, 73.946524
+   • Distance: 2.17 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.34, Y:19.52, Z:21.62
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.89, Y:75.49, Z:18.31
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:36
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:41:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564179, 73.946506
+   • Baseline: 18.564166, 73.946524
+   • Distance: 2.39 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.38, Y:19.50, Z:21.59
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.93, Y:75.47, Z:18.28
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:41
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:46:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946513
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.46 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.43, Y:19.49, Z:21.51
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.97, Y:75.46, Z:18.21
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:46
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:51:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.76 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.43, Y:19.41, Z:21.41
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.97, Y:75.38, Z:18.10
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:51
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:54:56:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.86 meters
+
+   Magnetometer (µT):
+   • Current:  X:-29.55, Y:19.42, Z:21.52
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:35.10, Y:75.39, Z:18.21
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:54:56
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:01:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.81 meters
+
+   Magnetometer (µT):
+   • Current:  X:-30.07, Y:20.64, Z:21.53
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:35.62, Y:76.61, Z:18.22
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:01
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:06:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564168, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.40 meters
+
+   Magnetometer (µT):
+   • Current:  X:-12.89, Y:-34.87, Z:12.25
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:18.44, Y:21.10, Z:8.94
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:06
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:12:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.70 meters
+
+   Magnetometer (µT):
+   • Current:  X:40.29, Y:-23.36, Z:18.98
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:34.74, Y:32.61, Z:15.68
+
+   Samples: 29
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:12
+ (NOBRIDGE) WARN     Buffer size before clear: 29 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:17:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564165, 73.946515
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.98 meters
+
+   Magnetometer (µT):
+   • Current:  X:56.70, Y:-21.67, Z:13.89
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:51.16, Y:34.30, Z:10.58
+
+   Samples: 48
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:17
+ (NOBRIDGE) WARN     Buffer size before clear: 48 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:22:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564167, 73.946509
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.57 meters
+
+   Magnetometer (µT):
+   • Current:  X:57.62, Y:-22.65, Z:13.02
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:52.08, Y:33.32, Z:9.71
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:22
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:27:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564152, 73.946515
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.85 meters
+
+   Magnetometer (µT):
+   • Current:  X:57.84, Y:-22.84, Z:12.20
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:52.30, Y:33.13, Z:8.89
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:27
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:32:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564156, 73.946511
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.83 meters
+
+   Magnetometer (µT):
+   • Current:  X:57.44, Y:-23.16, Z:12.10
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:51.90, Y:32.81, Z:8.79
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:32
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:37:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564154, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.46 meters
+
+   Magnetometer (µT):
+   • Current:  X:57.08, Y:-23.60, Z:11.87
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:51.54, Y:32.38, Z:8.56
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:37
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:42:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564166, 73.946517
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.75 meters
+
+   Magnetometer (µT):
+   • Current:  X:-9.91, Y:-13.16, Z:19.64
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.45, Y:42.81, Z:16.33
+
+   Samples: 54
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:42
+ (NOBRIDGE) WARN     Buffer size before clear: 54 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:47:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946512
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.43 meters
+
+   Magnetometer (µT):
+   • Current:  X:-9.04, Y:-38.64, Z:7.11
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:14.58, Y:17.33, Z:3.80
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:47
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:52:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564170, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.57 meters
+
+   Magnetometer (µT):
+   • Current:  X:-8.01, Y:-38.66, Z:6.97
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:13.55, Y:17.31, Z:3.66
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:52
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:55:57:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564169, 73.946529
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.60 meters
+
+   Magnetometer (µT):
+   • Current:  X:-7.88, Y:-38.73, Z:7.53
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:13.43, Y:17.24, Z:4.22
+
+   Samples: 54
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:55:57
+ (NOBRIDGE) WARN     Buffer size before clear: 54 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:02:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.81 meters
+
+   Magnetometer (µT):
+   • Current:  X:-8.15, Y:-38.56, Z:7.47
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:13.70, Y:17.41, Z:4.16
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:02
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:08:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564178, 73.946520
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.38 meters
+
+   Magnetometer (µT):
+   • Current:  X:-8.23, Y:-38.68, Z:7.18
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:13.78, Y:17.29, Z:3.88
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:08
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:13:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.89 meters
+
+   Magnetometer (µT):
+   • Current:  X:-8.29, Y:-38.59, Z:7.33
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:13.84, Y:17.38, Z:4.02
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:13
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:18:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564175, 73.946526
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.98 meters
+
+   Magnetometer (µT):
+   • Current:  X:-8.11, Y:-38.49, Z:7.57
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:13.66, Y:17.48, Z:4.26
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:18
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:23:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946520
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.89 meters
+
+   Magnetometer (µT):
+   • Current:  X:-8.43, Y:-38.54, Z:7.58
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:13.97, Y:17.43, Z:4.27
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:23
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:28:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564172, 73.946518
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.86 meters
+
+   Magnetometer (µT):
+   • Current:  X:-9.71, Y:-37.40, Z:8.88
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.25, Y:18.57, Z:5.57
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:28
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:33:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946522
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.87 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.23, Y:-36.75, Z:9.53
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.77, Y:19.22, Z:6.22
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:33
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:38:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564171, 73.946525
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.53 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.34, Y:-36.78, Z:9.48
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.88, Y:19.19, Z:6.17
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:38
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:43:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564174, 73.946529
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.02 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.31, Y:-36.55, Z:9.89
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.85, Y:19.42, Z:6.58
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:43
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:48:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564175, 73.946522
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.97 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.42, Y:-36.50, Z:9.88
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.96, Y:19.47, Z:6.58
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:48
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:53:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946521
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.80 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.37, Y:-36.52, Z:10.07
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.91, Y:19.46, Z:6.76
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:53
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:56:58:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564173, 73.946519
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.98 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.33, Y:-36.54, Z:10.20
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.88, Y:19.43, Z:6.90
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:56:58
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:57:03:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564176, 73.946525
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.12 meters
+
+   Magnetometer (µT):
+   • Current:  X:-11.46, Y:-36.49, Z:9.81
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:17.00, Y:19.48, Z:6.51
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:57:03
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:57:08:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564175, 73.946535
+   • Baseline: 18.564166, 73.946524
+   • Distance: 1.47 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.94, Y:-36.47, Z:9.64
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:16.49, Y:19.50, Z:6.34
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:57:08
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:57:13:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564167, 73.946530
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.67 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.40, Y:-36.51, Z:10.14
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.94, Y:19.46, Z:6.84
+
+   Samples: 53
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:57:13
+ (NOBRIDGE) WARN     Buffer size before clear: 53 samples
+ (NOBRIDGE) WARN  📊 10-Second Moving Average at 16:57:18:
+🔍 Comparison with Baseline:
+   Location:
+   • Current:  18.564167, 73.946523
+   • Baseline: 18.564166, 73.946524
+   • Distance: 0.16 meters
+
+   Magnetometer (µT):
+   • Current:  X:-10.43, Y:-36.47, Z:9.98
+   • Baseline: X:5.54, Y:-55.97, Z:3.31
+   • Diff:     X:15.97, Y:19.50, Z:6.67
+
+   Samples: 52
+ (NOBRIDGE) WARN  🧹 Clearing readings buffer at 16:57:18
+ (NOBRIDGE) WARN     Buffer size before clear: 52 samples
+Terminate batch job (Y/N)? 

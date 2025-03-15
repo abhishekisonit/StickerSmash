@@ -20,6 +20,18 @@ export default function TabsLayout() {
                     <Ionicons name={focused ? "home-sharp" : "home-outline"} color={color} size={28} />
                 )
             }} />
+            <Tabs.Screen name="words" options={{
+                title: "Words",
+                tabBarIcon: ({ color, focused }) => (
+                    <Ionicons name={focused ? "text-sharp" : "text-outline"} color={color} size={28} />
+                )
+            }} />
+            <Tabs.Screen name="words2" options={{
+                title: "Words",
+                tabBarIcon: ({ color, focused }) => (
+                    <Ionicons name={focused ? "text-sharp" : "text-outline"} color={color} size={28} />
+                )
+            }} />
             <Tabs.Screen name="about" options={{
                 title: "About",
                 tabBarIcon: ({ color, focused }) => (

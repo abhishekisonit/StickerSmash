@@ -48,7 +48,7 @@ export default function LocationPicker({ onLocationSelect }: LocationPickerProps
         <View style={styles.container}>
             {pickedLocation && (
                 <>
-                    {console.log('Rendering MapView with pickedLocation:', pickedLocation)}
+                    {/* {console.log('Rendering MapView with pickedLocation:', pickedLocation)} */}
                     <MapView
                         style={styles.map}
                         initialRegion={{
